@@ -1,0 +1,6 @@
+VARIABLE_NAME;VARIABLE_VALUE
+LINK;https://afterdark.netcompany.com/event/concert-in-warsaw-philharmonic-2022/
+SIGN_UP_BUTTON_CLASS_NAME;sign-me-up-button
+CONFIRM_BUTTON_CLASS_NAME;sign-up-confirm
+SIGNED_UP_DIV_CLASS;signed-up
+TIMEOUT_SECONDS;10
